@@ -1,4 +1,4 @@
-# A Simple Discord-Nickname-Changer
+# A Simple Discord-Status-Changer
 
 Youll need: Discord Token
             Discord Developer mode 
